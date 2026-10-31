@@ -1,0 +1,14 @@
+{
+  "name": "twizzle",
+  "version": "1.0.0",
+  "description": "Twizzle Discord social media bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "discord.js": "^14.28.0",
+    "dotenv": "^16.6.1"
+  }
+}
